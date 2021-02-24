@@ -12,5 +12,5 @@ Here we have training 4 models using different algorightms
 
 
 ### Dataset used: 
-Data_train: was used for training and testing the performance
-Data_test: was submitted to our mentor for check
+1. Data_train: was used for training and testing the performance
+2. Data_test: was submitted to our mentor for check
